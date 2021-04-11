@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+background-color: aquamarine;
+height: 100px;
+text-align: center;
+font-size: 50px;
+color: crimson;
+}
+.nav{
+    height: 600px;
+    width: 20%;
+    font-size: 50px;
+    float: left;
+    text-align: center;
+    background-color: goldenrod;
+    color: honeydew;
+}
+.article{
+    height: 600px;
+    width: 65%;
+    font-size: 80px;
+    float: left;
+    text-align: center;
+    background-color: lawngreen;
+    color: rgb(177, 10, 10);
+}
+.ads{
+    height: 600px;
+    width: 15%;
+    font-size: 50px;
+    float: right;
+    text-align: center;
+    background-color: springgreen;
+    color: rgb(167, 10, 167);
+}
+.footer{
+    height: 80PX;
+    text-align: center;
+    color: rgb(65, 0, 0);
+    background-color: rgb(243, 197, 235);
+}
+content{
+    overflow: hidden;
+}
